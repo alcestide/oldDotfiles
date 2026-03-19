@@ -11,9 +11,9 @@ The Qtile setup is based on a **two monitors** setup, but should also work just 
 
 Start-up apps are handled by Qtile inside `.config/qtile/autostart.sh`, where I also specify my desired wallpaper using `wal`.
 
-![2024-03-14_12-37](https://github.com/alcestide/Dotfiles/assets/106203061/e7cffc48-7012-4014-8fec-1e4eae8bcab6)
-![2023-05-23_18-36](https://github.com/alcestide/Dotfiles/assets/106203061/410fe864-2921-49de-94d7-3cb85bec2cc4)
-![2024-03-27_14-29](https://github.com/alcestide/Dotfiles/assets/106203061/6e9ee860-6c28-48f4-9351-1d82c76833fb)
+![2024-03-14_12-37](https://github.com/alcestide/oldDotfiles/assets/106203061/e7cffc48-7012-4014-8fec-1e4eae8bcab6)
+![2023-05-23_18-36](https://github.com/alcestide/oldDotfiles/assets/106203061/410fe864-2921-49de-94d7-3cb85bec2cc4)
+![2024-03-27_14-29](https://github.com/alcestide/oldDotfiles/assets/106203061/6e9ee860-6c28-48f4-9351-1d82c76833fb)
 
 ### **Table of Contents**
 * [Configuration](#configuration)
